@@ -1,16 +1,15 @@
-## Hi there 👋
+##👋 Hi there! Welcome to my GitHub Profile
+# About Me
+I'm Danil, a first-year student at RTU MIREA (Russian Technological University) pursuing studies in Artificial Intelligence. My dream is to become a skilled computer programmer and contribute to exciting tech projects.
 
-<!--
-**dangyyyy/dangyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I'm Up To
+🔭 Currently learning C++ as part of my coursework.
+🚀 Planning to dive into Go (Golang) soon!
+# Interests
+💻 Exploring programming languages and software development.
+🏀 Playing basketball and 🏊 swimming during my free time.
+🌍 Hiking, traveling, and photographing wildlife with my family.
+# Let's Connect
+📫 Reach me here on GitHub or email.
+🌱 Always open to learning from and collaborating with others.
+Feel free to customize it further! 😊
