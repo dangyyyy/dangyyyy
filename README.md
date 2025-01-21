@@ -1,4 +1,6 @@
-##👋 Hi there! Welcome to my GitHub Profile
+#👋 Hi there! Welcome to my GitHub Profile
+
+
 # About Me
 I'm Danil, a first-year student at RTU MIREA (Russian Technological University) pursuing studies in Artificial Intelligence. My dream is to become a skilled computer programmer and contribute to exciting tech projects.
 
