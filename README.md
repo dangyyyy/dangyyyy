@@ -1,9 +1,8 @@
 ### Hi, I'm Daniil 👋
 
-Backend developer working with Go. Previously at [Talon.One](https://www.talon.one) (Berlin, remote), where I worked on internal microservices, background job processing and on-call incident analysis. Studying AI & Data Analysis at RTU MIREA ('28).
+Backend developer working with Go. I build services with PostgreSQL, Docker and CI, and study AI & Data Analysis at RTU MIREA ('28).
 
 - 🛠 Working with: Go, PostgreSQL, ClickHouse, Kafka, gRPC, Redis, Docker, Kubernetes
-- 🔍 At Talon.One I co-built State Lab, an internal tool that snapshots and diffs PostgreSQL/ClickHouse state to reproduce data-migration incidents locally
 - 📫 Reach me: Telegram [@workingdangy](https://t.me/workingdangy) · workingdangy@gmail.com
 
 ### Projects
