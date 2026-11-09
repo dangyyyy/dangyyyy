@@ -1,4 +1,4 @@
-### Hi, I'm Daniil 👋
+### Hi, I'm Daniil, but u can call me dangy
 
 Backend developer working with Go. I build services with PostgreSQL, Docker and CI, and study AI & Data Analysis at RTU MIREA ('28).
 
